@@ -1,0 +1,9 @@
+D:\Test\Ids4\IdsServer\IdsAppServer\bin\Release\netcoreapp3.1\IdsAppServer.deps.json
+D:\Test\Ids4\IdsServer\IdsAppServer\bin\Release\netcoreapp3.1\IdsAppServer.dll
+D:\Test\Ids4\IdsServer\IdsAppServer\bin\Release\netcoreapp3.1\IdsAppServer.pdb
+D:\Test\Ids4\IdsServer\IdsAppServer\obj\Release\netcoreapp3.1\IdsAppServer.csprojAssemblyReference.cache
+D:\Test\Ids4\IdsServer\IdsAppServer\obj\Release\netcoreapp3.1\IdsAppServer.AssemblyInfoInputs.cache
+D:\Test\Ids4\IdsServer\IdsAppServer\obj\Release\netcoreapp3.1\IdsAppServer.AssemblyInfo.cs
+D:\Test\Ids4\IdsServer\IdsAppServer\obj\Release\netcoreapp3.1\IdsAppServer.dll
+D:\Test\Ids4\IdsServer\IdsAppServer\obj\Release\netcoreapp3.1\IdsAppServer.pdb
+D:\Test\Ids4\IdsServer\IdsAppServer\obj\Release\netcoreapp3.1\IdsAppServer.csproj.CoreCompileInputs.cache
